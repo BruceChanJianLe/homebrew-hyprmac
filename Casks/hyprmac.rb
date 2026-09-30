@@ -2,8 +2,8 @@
 # number plus a fork revision: 0.14.1-1, 0.14.1-2, ... The release job on
 # the fork produces the zip; bump version and sha256 here per release.
 cask "hyprmac" do
-  version "0.14.2-1"
-  sha256 "91ede9c4bf35058d9c071bb7ddcc7027afdd12a242c33a6c94a4e783bec276b1"
+  version "0.17.0-1"
+  sha256 "14ebecc757862e974f923517541063a222cd29fd8bd1eb466fe01c38e0e2840d"
 
   url "https://github.com/BruceChanJianLe/HyprMac/releases/download/v#{version}/HyprMac-#{version}.zip"
   name "HyprMac"
